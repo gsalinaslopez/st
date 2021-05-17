@@ -7,6 +7,7 @@
  */
 //static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 static char *font = "GohuFont Nerd Font:pixelsize=20:antialias=true:autohint=true";
+/* static char *font = "Tamzen:pixelsize=20:antialias=true:autohint=true"; */
 static int borderpx = 2;
 
 /*
