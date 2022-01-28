@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
-static char *font = "GohuFont Nerd Font:pixelsize=20:antialias=true:autohint=true";
+static char *font = "GohuFont:pixelsize=14:style=14";
 /* static char *font = "Tamzen:pixelsize=20:antialias=true:autohint=true"; */
 static int borderpx = 2;
 
